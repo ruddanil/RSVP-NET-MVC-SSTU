@@ -1,4 +1,4 @@
-# RSVP-web-NET-MVC-SSTU
+# RSVP-NET-MVC-SSTU
 
 A web application that allows invitees to respond to an invitation and save information about their response in a database. The Model-View-Controller (MVC) design pattern is used.
 
